@@ -1,0 +1,6 @@
+abstract class _XoxModelBase{
+    winner : String,
+    gameData : 
+    iconChanged : bool,
+    
+}
